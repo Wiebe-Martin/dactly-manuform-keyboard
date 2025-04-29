@@ -11,3 +11,15 @@ Make example for this keyboard (after setting up your build environment):
     make handwired/dactyl_manuform/5x6_2_5:default
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+
+My custom layers:
+
+![image](./layers/screenshot_2025-04-29_21-43-20.png)
+
+![image](./layers/screenshot_2025-04-29_21-44-25.png)
+
+![image](./layers/screenshot_2025-04-29_21-44-41.png)
+
+![image](./layers/screenshot_2025-04-29_21-44-54.png)
+
+![image](./layers/screenshot_2025-04-29_21-45-07.png)
