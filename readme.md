@@ -14,12 +14,22 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 My custom layers:
 
+## Layer 1:
+
 ![image](./layers/screenshot_2025-04-29_21-43-20.png)
+
+## Layer 2:
 
 ![image](./layers/screenshot_2025-04-29_21-44-25.png)
 
+## Layer 3:
+
 ![image](./layers/screenshot_2025-04-29_21-44-41.png)
 
+## Layer 4:
+
 ![image](./layers/screenshot_2025-04-29_21-44-54.png)
+
+## Layer 5:
 
 ![image](./layers/screenshot_2025-04-29_21-45-07.png)
