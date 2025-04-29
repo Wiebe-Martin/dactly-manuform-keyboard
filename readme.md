@@ -12,24 +12,24 @@ Make example for this keyboard (after setting up your build environment):
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
-My custom layers:
+## My custom layers:
 
-## Layer 1:
+### Layer 0:
 
 ![image](./layers/screenshot_2025-04-29_21-43-20.png)
 
-## Layer 2:
+### Layer 1:
 
 ![image](./layers/screenshot_2025-04-29_21-44-25.png)
 
-## Layer 3:
+### Layer 2:
 
 ![image](./layers/screenshot_2025-04-29_21-44-41.png)
 
-## Layer 4:
+### Layer 3:
 
 ![image](./layers/screenshot_2025-04-29_21-44-54.png)
 
-## Layer 5:
+### Layer 4:
 
 ![image](./layers/screenshot_2025-04-29_21-45-07.png)
